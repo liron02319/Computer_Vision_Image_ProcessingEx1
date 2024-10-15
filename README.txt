@@ -1,7 +1,6 @@
 Image Processing
 Exercise 1: Image Representations and Point Operations
 
-ID: 312324247
 Name: Liron Cohen
 
 platform:Pycharm Community Edition 2020.3.2
